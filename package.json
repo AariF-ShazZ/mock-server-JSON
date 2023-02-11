@@ -1,0 +1,24 @@
+{
+  "name": "mock-server-JSON",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AariF-ShazZ/mock-server-JSON.git",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AariF-ShazZ/mock-server-JSON/issues"
+  },
+  "homepage": "https://github.com/AariF-ShazZ/mock-server-JSON#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
